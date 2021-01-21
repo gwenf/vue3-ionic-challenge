@@ -1,5 +1,7 @@
 # ionic-demo
 
+This is a project created based off of a [Front-end Mentor challenge](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). Used [Ionic framework Vue](https://ionicframework.com/).
+
 ## Project setup
 ```
 npm install
